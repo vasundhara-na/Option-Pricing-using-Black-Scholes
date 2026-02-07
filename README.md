@@ -5,12 +5,7 @@ This project implements the Black–Scholes option pricing model and applies it 
 The goal is to bridge theoretical derivatives pricing models with practical financial engineering implementation.
 
 ## Key Components
-Downloaded real stock price data using Yahoo Finance
-Estimated historical volatility using log returns
-Implemented Black–Scholes pricing for European call options
-Computed analytical Greeks (Delta, Gamma, Vega, Theta, Rho)
-Visualized option price sensitivity to stock price and volatility
-Calibrated implied volatility by inverting the Black–Scholes model using numerical root-finding
+Downloaded real stock price data using Yahoo Finance, Estimated historical volatility using log returns, Implemented Black–Scholes pricing for European call options, Computed analytical Greeks (Delta, Gamma, Vega, Theta, Rho), Visualized option price sensitivity to stock price and volatility, Calibrated implied volatility by inverting the Black–Scholes model using numerical root-finding
 
 ## Tools and Libraries
 Python
