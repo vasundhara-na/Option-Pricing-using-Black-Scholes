@@ -30,6 +30,7 @@ Underlying asset: Apple Inc. stock (AAPL)
 - Vega
 - Theta
 - Rho
+  
 (Primarily for call options, with put Greeks derived via put–call parity)
 
 ## File Description
