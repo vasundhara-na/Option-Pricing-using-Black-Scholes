@@ -5,8 +5,8 @@ This project implements the Black Scholes option pricing model and applies it to
 The goal is to bridge theoretical option pricing models with practical real-market implementation.
 
 ## Key Components
-# Downloaded real stock price data using Yahoo Finance, 
-# Estimated volatility using log returns, 
+### Downloaded real stock price data using Yahoo Finance, 
+### Estimated volatility using log returns, 
 Implemented Black-Scholes pricing for European call options, 
 Computed analytical Greeks (Delta, Gamma, Vega, Theta, Rho), 
 Visualized option price sensitivity to stock price and volatility, 
