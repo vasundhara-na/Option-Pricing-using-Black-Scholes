@@ -14,22 +14,22 @@ The goal is to bridge theoretical option pricing models with practical real-mark
 
 ## Asset details
 Underlying asset: Apple Inc. stock (AAPL)
-     Reason: liquid stock, reliable dat, actively traded options
+- Reason: liquid stock, reliable dat, actively traded options
 
 ## Tools and Libraries
-Python
-NumPy
-Pandas
-SciPy
-Matplotlib
-yfinance       
+- Python
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- yfinance       
 
 ## Option Greeks (Risk Sensitivities)
-Delta
-Gamma
-Vega
-Theta
-Rho
+- Delta
+- Gamma
+- Vega
+- Theta
+- Rho
 (Primarily for call options, with put Greeks derived via put–call parity)
 
 ## File Description
